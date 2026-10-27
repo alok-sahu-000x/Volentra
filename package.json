@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "multer": "^2.1.1",
+    "socket.io": "^4.8.3"
+  }
+}
